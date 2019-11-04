@@ -3,3 +3,7 @@ test loss:1.38975787
 test weighted_loss：0.96062541
 test accuracy:0.805000722
 
+python3 run_graphsage_cora.py
+test loss:1.278551936
+test weighted_loss:0.82726383
+test accuracy:0.809000730
