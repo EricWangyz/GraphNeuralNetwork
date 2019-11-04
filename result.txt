@@ -1,0 +1,5 @@
+python3 run_gcn_cora.py
+test loss:1.38975787
+test weighted_loss：0.96062541
+test accuracy:0.805000722
+
